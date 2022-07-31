@@ -4,6 +4,7 @@
 
 layout: home
 ---
+
 <nav>
 <a href="#song-list">Song List</a>
 |
@@ -19,13 +20,11 @@ layout: home
 
 <dl>
     <dt>Can I see the words?</dt>
-    <dd>Yes. All the backing tracks are based on professional karaoke backing videos and you'll have the 
-    words on screen.</dd>
+    <dd>Yes. Guitaraoke uses professional backing videos, and you'll have the words on screen.</dd>
     <dt>Can I see the guitar chords/tabs?</dt>
-    <dd>No – you'll need to know the songs.</dd>
+    <dd>No – sorry. You'll need to learn the songs.</dd>
     <dt>Do I have to sign up in advance?</dt>
-    <dd>No. But if there's a song you REALLY REALLY want to play or sing, let me know and I'll try to make it happen.
-    </dd>
+    <dd>No. But if there's a song you REALLY REALLY want to play or sing, let me know and I'll try to make it happen.</dd>
     <dt>Do I need to bring anything?</dt>
     <dd>Just your favourite plectrum. I'll provide instruments, backline, mics... all the things. (See the <a href="#gear-list">gear list</a> if you need to know what'll be there.</dd>
     <dt>I can just turn up and play? I don't need to lug my guitar along?</dt>
@@ -37,14 +36,11 @@ layout: home
     <dt>Can I bring my amp?</dt>
     <dd>Please don't – we'll run everything through the venue PA.</dd>
     <dt>Can I bring my harmonica, saxophone, trombone, etc?</dt>
-    <dd>Sure - if you wanna jam along with whatever else is playing,
-      go for it. We'll have a few extra microphones if you need one.
-    </dd>
+    <dd>Sure; if you're happy to jam along with whatever else is playing, go for it. We'll have a few extra microphones if you need one.</dd>
     <dt>What key is everything in?</dt>
     <dd>Tracks are the same as the original recording</dd>
-    <dd><em>NOTE: Some bands (e.g. Guns 'n' Roses) tune everything down half a step in the studio. <strong>We don't</strong>. All the instruments are tuned to concert pitch, so when we play Sweet Child O' Mine, we play the same chords/shapes as G'n'R, but their version comes out in Db and our version comes out in D.
-    </em></dd>
-    <dt>What if I suck?</dt>
+    <dd><em>NOTE: Some bands (e.g. Guns 'n' Roses) tune everything down half a step in the studio. <strong>We don't</strong>. All the instruments are tuned to concert pitch, so when we play Sweet Child O' Mine, we play the same chords/shapes as G'n'R, but their version comes out in Db and our version comes out in D.</em></dd>
+    <dt>What if I drink four beers, get on stage believing I'm a rock god, and then realise I actually suck...?</dt>
     <dd>Relax. It's just for fun. But if you're really not enjoying yourself, give us the nod and we'll quietly fade you out and bring the original track back in and you can just jump around and pretend. After all, that's what they do on Top Of The Pops...</dd>
 </dl>
 
@@ -58,13 +54,20 @@ All the songs are also on a [Spotify playlist](https://open.spotify.com/playlist
 
 ## Gear List
 
-- Fender Stratocaster
-- Ibanez RG570
+Here's what I'm bringing along. Feel free to bring your own guitar or pedals (but please leave your amp at home!)
+
+- Fender Stratocaster electric guitar
+- Ibanez RG570 electric guitar
+- Steinberger Spirit GT3 electric guitars
 - Peavey Millennium 5-string bass
 - Walden D600 acoustic guitar
+- Blackstar HT-5 valve amp
+- Line6 Pod XT multi-FX
+- Zoom G1On multi-FX
 - 2 x Shure SM57 vocal mics
 - 2 x Shure SM58 instrument mics
-- Behringer XENYX2222 16-channel mixing desk
+
+All running through a Behringer 16-channel desk into a 
 
 ## How It Works
 

@@ -2,15 +2,15 @@
 * AC/DC - You Shook Me All Night Long
 * Adele - Rolling in the Deep
 * Alannah Myles - Black Velvet
-* Backstreet Boys - Backstreet's Back
+* Backstreet Boys - Backstreet’s Back
 * Backstreet Boys - Larger than Life
 * Beastie Boys - Sabotage
 * Beastie Boys - Fight For Your Right (To Party)
 * Belinda Carlisle - Heaven Is A Place On Earth
 * Billy Idol - Rebel Yell
-* Billy Joel - We Didn't Start The Fire
+* Billy Joel - We Didn’t Start The Fire
 * Blur - Parklife
-* Bon Jovi - Livin on a Prayer
+* Bon Jovi - Livin’ on a Prayer
 * Bon Jovi - Runaway
 * Bon Jovi - Wanted Dead or Alive
 * Bon Jovi - You Give Love a Bad Name
@@ -21,7 +21,7 @@
 * Dire Straits - Sultans of Swing
 * Europe - The Final Countdown
 * Foo Fighters - Learn to Fly
-* Fountains of Wayne - Stacy's Mom
+* Fountains of Wayne - Stacy’s Mom
 * Giorgio Moroder and Philip Oakey - Together in Electric Dreams
 * Gloria Gaynor - I Will Survive
 * Green Day - Basket Case
@@ -43,14 +43,14 @@
 * Queen - I Want It All
 * Queen - Tie Your Mother Down
 * Radiohead - Creep
-* Simple Minds - Don't You Forget About Me
+* Simple Minds - Don’t You Forget About Me
 * Smash Mouth - All Star
-* Starship - Nothing's Gonna Stop Us Now
+* Starship - Nothing’s Gonna Stop Us Now
 * Starship - We Built This City
 * The Killers - Human
 * The Killers - Mr Brightside
 * The Killers - Somebody Told Me
-* The Proclaimers - I'm Gonna Be (500 Miles)
+* The Proclaimers - I’m Gonna Be (500 Miles)
 * Wet Leg - Chaise Longue
 * Wheatus - Teenage Dirtbag
 * White Stripes - Seven Nation Army

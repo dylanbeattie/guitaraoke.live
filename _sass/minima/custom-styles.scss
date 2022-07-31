@@ -12,10 +12,15 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: bottom center;
-    background-size: contain;    
+    background-size: contain;   
+    // div.home {
+    //     padding: 16px;
+    //     background:#00000099 !important;
+    // } 
 }
+
 footer {
-    margin-top: 25vw;
+    margin-top: 22vw;
     margin-bottom: 1vw;
     text-align: center;
     font-size: 80%;
@@ -24,12 +29,12 @@ footer {
     }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 960px) {
     body {
-        background-size: 640px auto;
+        background-size: 960px auto;
     }
     footer {
-        margin-top: 150px;
+        margin-top: 220px;
     }
 }
 

@@ -1,31 +1,50 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+html { 
+    background: #000 url(/assets/svg/website-header-background.jpg);
+    background-size: contain;    
+    background-position: top center;
+    background-repeat: no-repeat;
+}
 
 body {
     background: url(/assets/svg/website-footer.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: bottom center;
-    background-size: contain;
-    padding-bottom: 25vw;
+    background-size: contain;    
 }
-@media (max-width: 640px) {
-    body {
-        background-size: 640px auto;
-        padding-bottom: 140px;
+footer {
+    margin-top: 25vw;
+    margin-bottom: 1vw;
+    text-align: center;
+    font-size: 80%;
+    &.site-footer {
+        padding: 2px 0 !important;
     }
 }
 
-a.site-title {
+@media (max-width: 640px) {
+    body {
+        background-size: 640px auto;
+    }
+    footer {
+        margin-top: 150px;
+    }
+}
+
+a.site-title {    
     display: block;
     margin: 8px auto !important;
     font-size: 0;
     background: url(/assets/svg/website-logo-header.svg);
-    background-position: top left;
+    background-position: top center;
     background-repeat: no-repeat;
-    width: 240px;
-    height: auto;
+    background-size: contain;
     float: none;
+    height: 10vw;
+    min-height: 60px;
+    max-height: 120px;
 }
 
 dl dt {
@@ -40,12 +59,13 @@ nav {
     a {
         display: inline-block;
         padding: 4px;
+        color: #fff !important;
     }
     a:hover {
         text-decoration: underline;
     }
-    border-bottom: 1px solid #369;
-    border-top: 1px solid #369;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
     padding: 16px 0px;
     margin-bottom: 16px;
 }

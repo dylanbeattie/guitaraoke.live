@@ -58,7 +58,7 @@ Here's what I'm bringing along. Feel free to bring your own guitar or pedals (bu
 
 - Fender Stratocaster electric guitar
 - Ibanez RG570 electric guitar
-- Steinberger Spirit GT3 electric guitars
+- Steinberger Spirit GT3 electric guitar
 - Peavey Millennium 5-string bass
 - Walden D600 acoustic guitar
 - Blackstar HT-5 valve amp

@@ -54,7 +54,7 @@ All the songs are also on a [Spotify playlist](https://open.spotify.com/playlist
 
 ## Gear List
 
-Here’s what I’m bringing along. Feel free to bring your own guitar or pedals (but please leave your amp at home!)
+Here’s what I’m bringing along. Feel free to bring your own guitar/bass, and pedals (but please leave your amp at home!)
 
 - Fender Stratocaster electric guitar
 - Ibanez RG570 electric guitar
@@ -73,8 +73,8 @@ All running through a Behringer 16-channel desk into a full PA system with monit
 
 All the backing videos are mixed in 5.1 surround sound, using instrumental tracks and videos provided by [karaoke-version.co.uk](https://www.karaoke-version.co.uk/). The ‘backing’ mix (drums, keyboards, strings, piano) is assigned to the back left and right channels, and each guitar is on a separate channel in the 5.1 mix – lead on the left, bass in the middle, rhythm on the right. The sound runs from the laptop into an Asus XONAR 5.1 audio interface, which gives isolated outputs for each track. Each track runs into a separate channel on the desk, so we can turn individual instruments on/off depending who’s playing what on the night.
 
-## Get in touch
+## Get In Touch
 
-I’m Dylan (hi!), and guitaraoke is a bit of an experiment. It’s a format I’ve been tinkering with for _years_, and my birthday seemed like a great opportunity to make it happen.
+I’m Dylan (hi!), and guitaraoke is a bit of an experiment. It’s a format I’ve been tinkering with for _years_, and my birthday party seemed like a great opportunity to make it happen.
 
 If you want to request a song, or you’re planning to come along and sing/play and have any questions, give me a shout – I’m [dylan@dylanbeattie.net](mailto:dylan@dylanbeattie.net) on email and [@dylanbeattie](https://twitter.com/dylanbeattie) on Twitter, and my website is at [dylanbeattie.net](https://dylanbeattie.net/).

@@ -1,14 +1,14 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 html { 
-    background: #000 url(/assets/svg/website-header-background.jpg);
+    background: #000 url(/assets/img/website-header-background.jpg);
     background-size: contain;    
     background-position: top center;
     background-repeat: no-repeat;
 }
 
 body {
-    background: url(/assets/svg/website-footer.jpg);
+    background: url(/assets/img/website-footer.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: bottom center;
@@ -42,7 +42,7 @@ a.site-title {
     display: block;
     margin: 8px auto !important;
     font-size: 0;
-    background: url(/assets/svg/website-logo-header.svg);
+    background: url(/assets/img/website-logo-header.svg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: contain;

@@ -1,0 +1,4 @@
+---
+artist: Bryan Adams
+title: Summer of 69
+---

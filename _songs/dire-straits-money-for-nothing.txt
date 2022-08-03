@@ -1,0 +1,4 @@
+---
+artist: Dire Straits
+title: Money For Nothing
+---

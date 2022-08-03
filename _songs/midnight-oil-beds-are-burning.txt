@@ -1,0 +1,4 @@
+---
+artist: Midnight Oil
+title: Beds Are Burning
+---

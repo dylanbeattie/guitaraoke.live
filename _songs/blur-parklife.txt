@@ -1,0 +1,4 @@
+---
+artist: Blur
+title: Parklife
+---

@@ -1,0 +1,4 @@
+---
+artist: Fountains of Wayne
+title: Stacy’s Mom
+---

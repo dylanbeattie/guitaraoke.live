@@ -1,0 +1,4 @@
+---
+artist: Pulp
+title: Disco 2000
+---

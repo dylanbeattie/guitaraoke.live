@@ -1,0 +1,4 @@
+---
+artist: Smash Mouth
+title: All Star
+---

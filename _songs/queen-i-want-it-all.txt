@@ -1,0 +1,4 @@
+---
+artist: Queen
+title: I Want It All
+---

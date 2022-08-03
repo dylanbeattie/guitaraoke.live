@@ -1,0 +1,4 @@
+---
+artist: Billy Idol
+title: Rebel Yell
+---

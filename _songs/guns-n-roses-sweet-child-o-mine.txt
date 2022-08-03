@@ -1,0 +1,4 @@
+---
+artist: Guns n Roses
+title: Sweet Child O Mine
+---

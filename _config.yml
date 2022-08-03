@@ -40,3 +40,6 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+collections:
+  songs:
+    output: true

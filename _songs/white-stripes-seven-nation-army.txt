@@ -1,0 +1,4 @@
+---
+artist: White Stripes
+title: Seven Nation Army
+---

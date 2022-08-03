@@ -1,0 +1,4 @@
+---
+artist: Daft Punk
+title: Get Lucky
+---

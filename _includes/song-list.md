@@ -4,8 +4,8 @@
 * Alannah Myles - Black Velvet
 * Backstreet Boys - Backstreet’s Back
 * Backstreet Boys - Larger than Life
-* Beastie Boys - Sabotage
 * Beastie Boys - Fight For Your Right (To Party)
+* Beastie Boys - Sabotage
 * Belinda Carlisle - Heaven Is A Place On Earth
 * Billy Idol - Rebel Yell
 * Billy Joel - We Didn’t Start The Fire
@@ -25,8 +25,10 @@
 * Giorgio Moroder and Philip Oakey - Together in Electric Dreams
 * Gloria Gaynor - I Will Survive
 * Green Day - Basket Case
+* Guns n Roses - Sweet Child O Mine
 * Huey Lewis and the News - The Power of Love
 * Janet Kay - Silly Games
+* Joan Jett - I Love Rock'n'Roll
 * Katrina And The Waves - Walking On Sunshine
 * Michael Jackson - Beat It
 * Midnight Oil - Beds Are Burning
@@ -43,6 +45,8 @@
 * Queen - I Want It All
 * Queen - Tie Your Mother Down
 * Radiohead - Creep
+* Robert Palmer - Addicted to Love
+* Shania Twain - Man! I Feel Like A Woman
 * Simple Minds - Don’t You Forget About Me
 * Smash Mouth - All Star
 * Starship - Nothing’s Gonna Stop Us Now
@@ -51,6 +55,7 @@
 * The Killers - Mr Brightside
 * The Killers - Somebody Told Me
 * The Proclaimers - I’m Gonna Be (500 Miles)
+* Tina Turner - Steamy Windows
 * Wet Leg - Chaise Longue
 * Wheatus - Teenage Dirtbag
 * White Stripes - Seven Nation Army

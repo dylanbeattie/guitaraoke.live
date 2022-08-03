@@ -1,0 +1,4 @@
+---
+artist: Gloria Gaynor
+title: I Will Survive
+---

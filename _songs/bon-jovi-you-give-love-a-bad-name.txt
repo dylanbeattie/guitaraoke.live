@@ -1,0 +1,4 @@
+---
+artist: Bon Jovi
+title: You Give Love a Bad Name
+---

@@ -1,0 +1,4 @@
+---
+artist: Huey Lewis and the News
+title: The Power of Love
+---

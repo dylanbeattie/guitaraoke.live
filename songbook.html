@@ -1,0 +1,24 @@
+---
+---
+<!DOCTYPE html>
+<head>
+    <title>Guitaraoke Chord Book</title>
+    <style>
+        h1 { 
+            page-break-before: always;
+        }
+        section {
+            page-break-inside: avoid;            
+        }
+    </style>
+</head>
+{% assign artists = site.songs | group_by: 'year' | sort: 'name' %} 
+{% for artist in artists %} 
+{% assign songs = artist.items | sort: 'title' %} 
+{% for song in songs %}
+<h1>{{song.title}}</h1>
+<h2>{{song.artist}}</h2>
+<pre>
+{{- song -}}
+</pre>
+{% endfor %} {% endfor %}

@@ -1,0 +1,4 @@
+---
+artist: Bon Jovi
+title: Wanted Dead or Alive
+---

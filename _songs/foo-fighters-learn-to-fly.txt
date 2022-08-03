@@ -1,0 +1,4 @@
+---
+artist: Foo Fighters
+title: Learn to Fly
+---

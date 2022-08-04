@@ -43,3 +43,9 @@ minima:
 collections:
   songs:
     output: true
+defaults:
+  -
+    scope:
+      path: "_songs"
+    values:
+      layout: "song"

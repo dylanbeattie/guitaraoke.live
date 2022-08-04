@@ -2,3 +2,63 @@
 artist: Pearl Jam
 title: Alive
 ---
+[Intro]
+ 
+| (A) (G6/A)| (G6/A) | (A) (G6/A)| (G6/A) |
+|  A   G6/A |  G6/A  |  A   G6/A |  G6/A  |
+| F5  C        |
+ (6/4)
+  
+[Verse 1]
+A G6/A           A              G6/A
+ "Son," she said, "Have I got a little story for you.
+A G6/A                         A    G6/A
+     What you thought was your daddy  was nothing but a...
+A G6/A                   A             G6/A
+  While you were sitting home alone at age thirteen
+A G6/A                      A   G6/A
+     Your real daddy was dying.
+                 F5      C
+Sorry you didn't see him
+    Cadd9 C    F5      C
+But I'm     glad we talked."
+  
+[Chorus 1]
+    E   G   D           A         E   G   D          A
+Oh, I...oh, I'm still alive. Hey, I...oh, I'm still alive.
+     E   G   D          A	     B
+Hey, I...oh, I'm still alive,	hey, oh.
+ 
+[Verse 2]
+A G6/A                A  G6/A
+  Oh, she walks slowly  across a young man's room.
+A G6/A              A    G6/A
+     She said, "I'm ready  for you."
+A G6/A                  A        G6/A
+  Well I can't remember anything to this very day...
+A G6/A               A     G6/A	       F5            C   Cadd9
+      'Cept the look.  The look.   Oh, you know where.
+C   F5       C          E
+Now I can't see, I just stare.
+ 
+[Chorus]
+ 
+[Instrumental]
+| B     | F#    |	x4
+  
+[Bridge]
+A7 Asus2 Dsus2                    A   Asus2 Dsus2
+          "Is something wrong?" she said.
+          A7    Asus2 Dsus2                         A7  Asus2 Dsus2
+Of course there is.	      "You're still alive," she said.
+                        B  Bsus2 E
+Oh, and do I deserve to be?
+                B    Bsus2 E          B  Bsus2 E         B     Bsus2
+Is that the question?	      And if so, if    so, who answers?
+    E
+Who answers?
+ 
+[Chorus]
+ 
+[Outro Solo]
+| E  G  | D  A  | x18

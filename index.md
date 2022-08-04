@@ -48,6 +48,8 @@ layout: home
 
 If you want to play something that’s not on the list, [get in touch](#get-in-touch) and I’ll see what I can do.
 
+<p><strong>Click a song to see the chord chart</strong></p>
+
 {% include song-list.md %}
 
 All the songs are also on a [Spotify playlist](https://open.spotify.com/playlist/0qIr80VVG38TWuQzs1Api6?si=b6b8a77fdfcf4ebe) so you can sing and jam along and get in the mood.

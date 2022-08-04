@@ -2,3 +2,65 @@
 artist: Pink Floyd
 title: Another Brick In The Wall (Pt 2)
 ---
+Play Dm as barre chord x57765
+ 
+[Intro]
+Dm
+ 
+[Verse]
+Dm
+We don't need no education
+Dm
+We don't need no thought control
+Dm
+No dark sarcasm in the classroom
+Dm                               G
+Teacher, leave them kids alone...
+G                               Dm
+Hey! Teacher, leave them kids alone...
+ 
+[Riff]
+   Dm                  C     Dm        C     G      F
+e|-5---5-5--------10---8---|-10---10---8--8--7-7-7--5--|
+B|-6---6-6--------10---8---|-10---10---8--8--8-8-8--6--|
+G|-7---7-7--------10---9---|-10---10---9--9--7-7-7--5--|
+D|-7---7-7-----------------|---------------------------|
+A|-5---5-5-----------------|---------------------------|
+E|-------------------------|---------------------------|
+ 
+[?horus]
+F                        C                     Dm
+  All in all it's just a - nother brick in the wall
+F                          C                     Dm
+  All in all you're just a - nother brick in the wall
+ 
+[Verse]
+Dm
+We don't need no education
+Dm
+We don't need no thought control
+Dm
+No dark sarcasm in the classroom
+Dm                                G
+Teachers, leave them kids alone...
+G                                Dm
+Hey! Teacher, leave those kids alone...
+ 
+[Riff]
+   Dm                  C     Dm        C     G      F
+e|-5---5-5--------10---8---|-10---10---8--8--7-7-7--5--|
+B|-6---6-6--------10---8---|-10---10---8--8--8-8-8--6--|
+G|-7---7-7--------10---9---|-10---10---9--9--7-7-7--5--|
+D|-7---7-7-----------------|---------------------------|
+A|-5---5-5-----------------|---------------------------|
+E|-------------------------|---------------------------|
+ 
+[?horus]
+F                          C                     Dm
+  All in all you're just a - nother brick in the wall
+F                          C                     Dm
+  All in all you're just a - nother brick in the wall
+ 
+[Solo]
+Dm
+(fade out)

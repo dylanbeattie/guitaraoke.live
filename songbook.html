@@ -3,21 +3,23 @@
 <!DOCTYPE html>
 <head>
     <title>Guitaraoke Chord Book</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-        h1 { 
-            page-break-before: always;
+        html {
+            font-family: Arial;            
         }
-        section {
-            page-break-inside: avoid;            
+        pre {
+            font-family: Consolas;
+            font-size: 18px;        
+            page-break-before: always;
+            page-break-inside: avoid;                        
         }
     </style>
 </head>
-{% assign artists = site.songs | group_by: 'year' | sort: 'name' %} 
+{% assign artists = site.songs | group_by: 'artist' | sort: 'name' %} 
 {% for artist in artists %} 
 {% assign songs = artist.items | sort: 'title' %} 
 {% for song in songs %}
-<h1>{{song.title}}</h1>
-<h2>{{song.artist}}</h2>
 <pre>
 {{- song -}}
 </pre>

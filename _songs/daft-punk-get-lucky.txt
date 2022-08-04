@@ -2,3 +2,64 @@
 artist: Daft Punk
 title: Get Lucky
 ---
+---
+artist: Daft Punk
+title: Get Lucky
+---
+
+It's the same Bm/D/F#m/E pattern repeated throughout. No changes.
+
+[Intro]
+ 
+| Bm | D | F#m | E |
+| Bm | D | F#m | E |
+
+ 
+[Verse]
+ 
+[ E ]                     Bm	  D                 F#m
+   Like the legend of the phoenix   All ends with beginnings
+E                       Bm	  D                      F#m      
+  What keeps the planet spinning    The force from the beginning
+  E
+ 
+[Pre-chorus]
+ 
+Bm             D
+We've come too far
+        F#m        E
+To give up who we are
+   Bm              D
+So let's raise the bar
+        F#m          E
+And our cups to the stars
+ 
+ 
+[Chorus]
+ 
+Bm                               D
+ She's up all night till the sun   I'm up all night to get some
+F#m                              E
+ She's up all night for good fun   I'm up all night to get lucky
+
+Bm                               D
+ We're up all night till the sun    We're up all night to get some
+F#m                              E
+ We're up all night for good fun    We're up all night to get lucky
+
+ 
+Bm                                D
+ We're up all night to get lucky   We're up all night to get lucky
+F#m                               E
+ We're up all night to get lucky   We're up all night to get lucky
+
+| Bm | D | F#m | E |
+
+
+[ E ]                 Bm	D                    F#m
+   The present has no ribbon	  Your gift keeps on giving
+E                  Bm	       D                           F#m     
+  What is this I'm feeling?      If you want to leave, I'm with it 
+   E
+
+| Bm | D | F#m | E |

@@ -2,3 +2,43 @@
 artist: Dire Straits
 title: Sultans of Swing
 ---
+[Verse 1]
+          Dm                       C              Bb       A
+You get a shiver in the dark, it's raining in the park but meantime
+Dm                        C            Bb         A
+  South of the river you stop and you hold everything
+F                                 C
+  A band is blowing Dixie double four time
+Bb                                            Dm    Bb - C
+   You feel alright when you hear that music ring
+ 
+[Verse 2]
+              Dm                  C         Bb        A
+Well now, you step inside but you don't see too many faces
+Dm                      C                Bb      A
+   Coming in out of the rain to hear the jazz go down
+F                       C
+  Competition in other places
+Bb                                     Dm
+   Uh, but the horns they blowin' that sound
+Bb - C
+        way on down south
+Bb - C
+        way on down south
+Dm
+London Town
+ 
+[Instrumental]
+|Dm    C | Bb     | C      | C       |
+|Dm    C | Bb     | C      | C       |
+
+[Solo 1 is over the verse progression]
+| Dm     | C  Bb  | A      | A       |
+| Dm     | C  Bb  | A      | A       |
+| F      | F      | C      | C       |
+| Bb     | Bb     | Dm     | Dm  Bb  |
+| C      | C  Bb  | C      | C       |
+
+[Solo 2 is over the post-chorus instrumental progression]
+|Dm    C | Bb     | C      | C       |
+|Dm    C | Bb     | C      | C       |

@@ -9,81 +9,81 @@ C7
 Is this just fantasy
 F7          Cm7 F7
 Caught in a landslide
-    A#
+    Bb
 No escape from reality
 Gm
 Open your eyes
-     A#7                   D#
+     Bb7                   Eb
 Look up to the skies and see
 Cm                   F7
 I'm just a poor boy, I need no sympathy
-            B   A#     A   A#
+            B   Bb     A   Bb
 Because I'm easy come, easy go,
-B     A#     A     A#
+B     Bb     A     Bb
 little high, little low,
-D#           A#/D         Dbdim7         F7/C
+Eb           Bb/D         Dbdim7         F7/C
 Any way the wind blows, doesn't really matter to me,
-   A#
+   Bb
 To me
  
  
 [Verse]
  
-A#          Gm
+Bb          Gm
 Mama, just killed a man,
       Cm
 Put a gun against his head,
           Cm                 F
 Pulled my trigger, now he's dead,
-A#              Gm
+Bb              Gm
 Mama, life had just begun,
-    Cm                Cm/B     Cm/A# Cm/A   Cm/G# Cm/G
+    Cm                Cm/B     Cm/Bb Cm/A   Cm/Ab Cm/G
 But now I've gone and thrown it all  away
-D#    A# Cm
+Eb    Bb Cm
 Mama ooooh,
        Fm
 Didn't mean to make you cry
-   A#                               D#
+   Bb                               Eb
 If I'm not back again this time tomorrow
-      A#         Cm        G#m                D#
+      Bb         Cm        Abm                Eb
 Carry on, carry on, as if nothing really matters
  
-A#
+Bb
  
  
 [Verse]
  
-A#            Gm
+Bb            Gm
 Too late, my time has come,
       Cm
 Sends shivers down my spine
        Cm               F
 Body's aching all the time,
-A#                        Gm
+Bb                        Gm
 Goodbye everybody - I've got to go
-      Cm              Cm/B    Cm/A# Cm/A    Cm/G# Cm/G
+      Cm              Cm/B    Cm/Bb Cm/A    Cm/Ab Cm/G
 Gotta leave you all behind and face   the truth
-D#    A# Cm
+Eb    Bb Cm
 Mama ooooh (any way the wind blows)
 Fm
 I don't want to die,
-  A#                                      D#
+  Bb                                      Eb
 I sometimes wish I'd never been born at all
  
  
 [Solo]
  
-| D# A# | Cm  | Fm  | A#   |
-| D# A# | Cm  | Fm  | Db  Db C B A# | A   |
+| Eb Bb | Cm  | Fm  | Bb   |
+| Eb Bb | Cm  | Fm  | Db  Db C B Bb | A   |
  
  
 [Interlude 1]
  
-D A    G#      A    D    A   G#
+D A    Ab      A    D    A   Ab
 I see a little silhouetto of a man,
-A   D       A   D       A       G#      A D  A
+A   D       A   D       A       Ab      A D  A
 Scaramouche, scaramouche, will you do the Fandango
-C#              G#          C         E          A
+Db              Ab          C         E          A
 Thunderbolt and lightning, very very frightening me
 N.C.
 Galileo, Galileo
@@ -92,48 +92,48 @@ Galileo, Galileo
 N.C.
 Galileo, Figaro - Magnifico
  
-B  A#      A   A#    B A#    A    A#
+B  Bb      A   Bb    B Bb    A    Bb
 I'm just a poor boy, no-body loves me.
-G#    D#      D#dim D#   G#      D#    D#dim D#
+Ab    Eb      Ebdim Eb   Ab      Eb    Ebdim Eb
 He's just a poor boy from a poor fami-ly.
-G#             D#/G            F        A#    G#  D#/G  F#dim  Fm7
+Ab             Eb/G            F        Bb    Ab  Eb/G  Ebdim  Fm7
 Spare him his life from this monstrosity.
-B   A#     A   A#   B       A#      A   A#  D#  A#
+B   Bb     A   Bb   B       Bb      A   Bb  Eb  Bb
 Easy come, easy go, will you let me go?  Bismillah!
-D#      A#                     A#  D#  A#
+Eb      Bb                     Bb  Eb  Bb
 No, we will not let you go.  Bismillah!
-A#                        A#  D#  A#     A#
+Bb                        Bb  Eb  Bb     Bb
 We will not let you go.  Bismillah!  We will not let you go.
-A#                     A#                         F#7
+Bb                     Bb                         Eb7
 Will not let you go.  Will not let you go. Ahhhhhhhhh
-Bm A  D   C#  F#  A#   D#    N.C.
+Bm A  D   Db  Eb  Bb   Eb    N.C.
 No, no, no, no, no, no, no.  Oh, mama mia, mama mia
-     D#           A#      D#   G#         D          Gm       A#
+     Eb           Bb      Eb   Ab         D          Gm       Bb
 Mama mia, let me go.  Beelzebub has a devil put aside for me,
  
  
 [Riff]
  
-| D#   | D#   | D#   | F   |
+| Eb   | Eb   | Eb   | F   |
  
  
 [Interlude 2]
  
-A#                                   D#          A#   Db
+Bb                                   Eb          Bb   Db
   So you think you can stone me and spit in my eye
-A#                                  D#           G#
+Bb                                  Eb           Ab
   So you think you can love me and leave me to die
-Fm  A#     Fm                    A#
+Fm  Bb     Fm                    Bb
 Oh, baby - can't do this to me, baby
-Fm             A#     Fm             A#           D#
+Fm             Bb     Fm             Bb           Eb
 Just gotta get out - just gotta get right outta here
  
  
 [Riff/Instrumental]
  
-|(D#)  | D#   | D#   | F   | N.C.|
-| B  | G#   | A#   | A#   | A#   |
-| D#  A#  | Cm  G Cm | G Cm A# D# | D  Gm | G#  D#  |
+|(Eb)  | Eb   | Eb   | F   | N.C.|
+| B  | Ab   | Bb   | Bb   | Bb   |
+| Eb  Bb  | Cm  G Cm | G Cm Bb Eb | D  Gm | Ab  Eb  |
  
  
 [Outro]
@@ -142,24 +142,24 @@ Cm                Gm
 Nothing really matters,
 Cm         Gm
 Anyone can see,
-Cm                G#m    G#/A#                       D#
+Cm                Abm    Ab/Bb                       Eb
 Nothing really matters, nothing really matters to me,
  
  
 [Instrumental]
  
-|(D#) G#/D# | D#  D#dim |
-| A#/D  A#m/Db | C    Dbdim | C C7 F    |
+|(Eb) Ab/Eb | Eb  Ebdim |
+| Bb/D  Bbm/Db | C    Dbdim | C C7 F    |
  
  
 [Coda]
  
-A#   F/A    Fdim/G# Gm7    F
+Bb   F/A    Fdim/Ab Gm7    F
 Any way the wind   blows ...
  
  
 G       x-x-5-4-3-x
-D/F#    x-x-4-2-3-x
+D/Eb    x-x-4-2-3-x
 Ddim/F  x-x-3-1-3-x
 Em7     x-x-2-0-3-x
 

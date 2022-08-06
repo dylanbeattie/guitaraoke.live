@@ -1,6 +1,7 @@
 ---
 artist: Billy Idol
 title: Rebel Yell
+rating: 3
 ---
 [Intro]
 Bm7

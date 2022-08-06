@@ -1,6 +1,7 @@
 ---
 artist: Bon Jovi
 title: Livin’ on a Prayer
+rating: 3
 ---
 [Intro]
 Em    C     D    Em

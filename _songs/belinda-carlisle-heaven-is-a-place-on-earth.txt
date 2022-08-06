@@ -1,6 +1,7 @@
 ---
 artist: Belinda Carlisle
 title: Heaven Is A Place On Earth
+rating: 3
 ---
 [Chorus]
 C#m   A             B                C#m

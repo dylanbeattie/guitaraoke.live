@@ -3,67 +3,87 @@ artist: Queen
 title: Bohemian Rhapsody
 ---
 [Intro]
- 
-Em7			    A7
-Is this the real life	    Is this just fantasy
-D7          Am7 D7	      G
-Caught in a landslide	  No escape from reality
-Em			       G7                   C
-Open your eyes		  Look up to the skies and see
-
-Am                   D7
+Gm7
+Is this the real life
+C7
+Is this just fantasy
+F7          Cm7 F7
+Caught in a landslide
+    A#
+No escape from reality
+Gm
+Open your eyes
+     A#7                   D#
+Look up to the skies and see
+Cm                   F7
 I'm just a poor boy, I need no sympathy
-            G#   G     F#   G	  G#     G     F#     G
-Because I'm easy come, easy go,	  little high, little low,
-C           G/B         Bbdim7         D7/A
+            B   A#     A   A#
+Because I'm easy come, easy go,
+B     A#     A     A#
+little high, little low,
+D#           A#/D         Dbdim7         F7/C
 Any way the wind blows, doesn't really matter to me,
-   G
+   A#
 To me
  
+ 
 [Verse]
-G          Em
+ 
+A#          Gm
 Mama, just killed a man,
-      Am		              Am                 D
-Put a gun against his head, Pulled my trigger, now he's dead,
-G              Em
+      Cm
+Put a gun against his head,
+          Cm                 F
+Pulled my trigger, now he's dead,
+A#              Gm
 Mama, life had just begun,
-    Am                Am/G#     Am/G Am/F#   Am/F Am/E
+    Cm                Cm/B     Cm/A# Cm/A   Cm/G# Cm/G
 But now I've gone and thrown it all  away
-C    G Am            Dm
-Mama ooooh,   Didn't mean to make you cry
-   G                               C
+D#    A# Cm
+Mama ooooh,
+       Fm
+Didn't mean to make you cry
+   A#                               D#
 If I'm not back again this time tomorrow
-      G         Am        Fm                C
+      A#         Cm        G#m                D#
 Carry on, carry on, as if nothing really matters
  
-G
+A#
+ 
  
 [Verse]
-G            Em
+ 
+A#            Gm
 Too late, my time has come,
-      Am		            Am               D
-Sends shivers down my spine  Body's aching all the time,
-G                        Em
+      Cm
+Sends shivers down my spine
+       Cm               F
+Body's aching all the time,
+A#                        Gm
 Goodbye everybody - I've got to go
-      Am              Am/G#    Am/G Am/F#    Am/F Am/E
+      Cm              Cm/B    Cm/A# Cm/A    Cm/G# Cm/G
 Gotta leave you all behind and face   the truth
-C    G Am
+D#    A# Cm
 Mama ooooh (any way the wind blows)
-Dm		       G                                      C
-I don't want to die, I sometimes wish I'd never been born at all
-  
+Fm
+I don't want to die,
+  A#                                      D#
+I sometimes wish I'd never been born at all
+ 
+ 
 [Solo]
  
-| C G | Am  | Dm  | G   |
-| C G | Am  | Dm  | Bb  Bb A G# G | F#   |
-  
+| D# A# | Cm  | Fm  | A#   |
+| D# A# | Cm  | Fm  | Db  Db C B A# | A   |
+ 
+ 
 [Interlude 1]
  
-B F#    F      F#    B    F#   F
+D A    G#      A    D    A   G#
 I see a little silhouetto of a man,
-F#   B       F#   B       F#       F      F# B  F#
+A   D       A   D       A       G#      A D  A
 Scaramouche, scaramouche, will you do the Fandango
-A#              F          A         C#          F#
+C#              G#          C         E          A
 Thunderbolt and lightning, very very frightening me
 N.C.
 Galileo, Galileo
@@ -72,59 +92,196 @@ Galileo, Galileo
 N.C.
 Galileo, Figaro - Magnifico
  
-G#  G      F#   G    G# G    F#    G
+B  A#      A   A#    B A#    A    A#
 I'm just a poor boy, no-body loves me.
-F    C      Cdim C   F      C    Cdim C
+G#    D#      D#dim D#   G#      D#    D#dim D#
 He's just a poor boy from a poor fami-ly.
-F             C/E            D        G    F  C/E  D#dim  Dm7
+G#             D#/G            F        A#    G#  D#/G  F#dim  Fm7
 Spare him his life from this monstrosity.
-G#   G     F#   G   G#       G      F#   G  C  G
+B   A#     A   A#   B       A#      A   A#  D#  A#
 Easy come, easy go, will you let me go?  Bismillah!
-C      G                     G  C  G
+D#      A#                     A#  D#  A#
 No, we will not let you go.  Bismillah!
-G                        G  C  G     G
+A#                        A#  D#  A#     A#
 We will not let you go.  Bismillah!  We will not let you go.
-G                     G                         D#7
+A#                     A#                         F#7
 Will not let you go.  Will not let you go. Ahhhhhhhhh
-G#m F#  B   A#  D#  G   C    N.C.
+Bm A  D   C#  F#  A#   D#    N.C.
 No, no, no, no, no, no, no.  Oh, mama mia, mama mia
-     C           G      C   F         B          Em       G
+     D#           A#      D#   G#         D          Gm       A#
 Mama mia, let me go.  Beelzebub has a devil put aside for me,
-  
+ 
+ 
 [Riff]
-| C   | C   | C   | D   |
-  
+ 
+| D#   | D#   | D#   | F   |
+ 
+ 
 [Interlude 2]
  
-G                                   C          G   Bb
+A#                                   D#          A#   Db
   So you think you can stone me and spit in my eye
-G                                  C           F
+A#                                  D#           G#
   So you think you can love me and leave me to die
-Dm  G     Dm                    G
+Fm  A#     Fm                    A#
 Oh, baby - can't do this to me, baby
-Dm             G     Dm             G           C
+Fm             A#     Fm             A#           D#
 Just gotta get out - just gotta get right outta here
-  
+ 
+ 
 [Riff/Instrumental]
  
-|(C)  | C   | C   | D   | N.C.|
-| Ab  | F   | G   | G   | G   |
-| C  G  | Am  E Am | E Am G C | B  Em | F  C  |
-  
-Am                Em	 Am         Em
-Nothing really matters,	 Anyone can see,
-Am                Fm    F/G                       C
+|(D#)  | D#   | D#   | F   | N.C.|
+| B  | G#   | A#   | A#   | A#   |
+| D#  A#  | Cm  G Cm | G Cm A# D# | D  Gm | G#  D#  |
+ 
+ 
+[Outro]
+ 
+Cm                Gm
+Nothing really matters,
+Cm         Gm
+Anyone can see,
+Cm                G#m    G#/A#                       D#
 Nothing really matters, nothing really matters to me,
-  
+ 
+ 
 [Instrumental]
-|(C) F/C | C  Cdim |
-| G/B  Gm/Bb | A    Bbdim | A A7 D    |
-  
+ 
+|(D#) G#/D# | D#  D#dim |
+| A#/D  A#m/Db | C    Dbdim | C C7 F    |
+ 
+ 
 [Coda]
-G   D/F#    Ddim/F Em7    D
+ 
+A#   F/A    Fdim/G# Gm7    F
 Any way the wind   blows ...
+ 
  
 G       x-x-5-4-3-x
 D/F#    x-x-4-2-3-x
 Ddim/F  x-x-3-1-3-x
 Em7     x-x-2-0-3-x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

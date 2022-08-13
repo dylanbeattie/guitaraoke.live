@@ -3,30 +3,21 @@ artist: Queen
 title: Bohemian Rhapsody
 ---
 [Intro]
-Gm7
-Is this the real life
-C7
-Is this just fantasy
-F7          Cm7 F7
-Caught in a landslide
-    Bb
-No escape from reality
-Gm
-Open your eyes
-     Bb7                   Eb
-Look up to the skies and see
+Gm7			C7
+Is this the real life	Is this just fantasy
+F7          Cm7 F7	    Bb
+Caught in a landslide	No escape from reality
+Gm		     Bb7                   Eb
+Open your eyes	Look up to the skies and see
 Cm                   F7
 I'm just a poor boy, I need no sympathy
-            B   Bb     A   Bb
-Because I'm easy come, easy go,
-B     Bb     A     Bb
-little high, little low,
+            B   Bb     A   Bb	B     Bb     A     Bb
+Because I'm easy come, easy go,	little high, little low,
 Eb           Bb/D         Dbdim7         F7/C
 Any way the wind blows, doesn't really matter to me,
    Bb
 To me
- 
- 
+  
 [Verse]
  
 Bb          Gm
@@ -49,10 +40,8 @@ If I'm not back again this time tomorrow
 Carry on, carry on, as if nothing really matters
  
 Bb
- 
- 
+
 [Verse]
- 
 Bb            Gm
 Too late, my time has come,
       Cm
@@ -69,28 +58,21 @@ Fm
 I don't want to die,
   Bb                                      Eb
 I sometimes wish I'd never been born at all
- 
- 
+
 [Solo]
  
-| Eb Bb | Cm  | Fm  | Bb   |
-| Eb Bb | Cm  | Fm  | Db  Db C B Bb | A   |
- 
- 
-[Interlude 1]
- 
+| Eb Bb | Cm  | Fm  | Bb            |
+| Eb Bb | Cm  | Fm  | Db  Db C B Bb |  A   |
+  
+[Interlude 1] 
 D A    Ab      A    D    A   Ab
 I see a little silhouetto of a man,
 A   D       A   D       A       Ab      A D  A
 Scaramouche, scaramouche, will you do the Fandango
 Db              Ab          C         E          A
 Thunderbolt and lightning, very very frightening me
-N.C.
-Galileo, Galileo
-N.C.
-Galileo, Galileo
-N.C.
-Galileo, Figaro - Magnifico
+N.C.		  N.C.		    N.C.
+Galileo, Galileo  Galileo, Galileo  Galileo, Figaro - Magnifico
  
 B  Bb      A   Bb    B Bb    A    Bb
 I'm just a poor boy, no-body loves me.
@@ -112,13 +94,10 @@ No, no, no, no, no, no, no.  Oh, mama mia, mama mia
 Mama mia, let me go.  Beelzebub has a devil put aside for me,
  
  
-[Riff]
- 
+[Riff] 
 | Eb   | Eb   | Eb   | F   |
- 
- 
-[Interlude 2]
- 
+  
+[Interlude 2] 
 Bb                                   Eb          Bb   Db
   So you think you can stone me and spit in my eye
 Bb                                  Eb           Ab
@@ -127,161 +106,23 @@ Fm  Bb     Fm                    Bb
 Oh, baby - can't do this to me, baby
 Fm             Bb     Fm             Bb           Eb
 Just gotta get out - just gotta get right outta here
- 
- 
-[Riff/Instrumental]
- 
+  
+[Riff/Instrumental] 
 |(Eb)  | Eb   | Eb   | F   | N.C.|
 | B  | Ab   | Bb   | Bb   | Bb   |
 | Eb  Bb  | Cm  G Cm | G Cm Bb Eb | D  Gm | Ab  Eb  |
- 
- 
+  
 [Outro]
  
-Cm                Gm
-Nothing really matters,
-Cm         Gm
-Anyone can see,
+Cm                Gm	 Cm         Gm
+Nothing really matters,	 Anyone can see,
 Cm                Abm    Ab/Bb                       Eb
 Nothing really matters, nothing really matters to me,
- 
- 
-[Instrumental]
- 
+  
+[Instrumental] 
 |(Eb) Ab/Eb | Eb  Ebdim |
 | Bb/D  Bbm/Db | C    Dbdim | C C7 F    |
- 
- 
+  
 [Coda]
- 
 Bb   F/A    Fdim/Ab Gm7    F
 Any way the wind   blows ...
- 
- 
-G       x-x-5-4-3-x
-D/Eb    x-x-4-2-3-x
-Ddim/F  x-x-3-1-3-x
-Em7     x-x-2-0-3-x
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

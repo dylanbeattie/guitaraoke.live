@@ -8,12 +8,21 @@ layout: home
 <nav>
 <a href="#song-list">Songs</a>
 |
-<a href="#gear-list">Gear List</a>
-|
-<a href="#how-it-works">How It Works</a>
+<a href="#gear-list">Gear</a>
 |
 <a href="#get-in-touch">Contact</a>
 </nav>
+
+<section style="text-align: left;">
+<a href="https://ignition.beer/">
+<img src="ignition-logo-white-on-trans.webp" style="float: right; width: 120px; height: 120px;" />
+</a>
+    <h2>Every 3rd Saturday of the month at 7PM</h2>
+    <h3><a href="https://ignition.beer/">Ignition Brewery Taproom</a></h3>
+    <p>44a Sydenham Road, London, SE26 5QF</p>
+</section>
+<hr />
+
 <p><strong>Guitaraoke is karaoke with real guitars.</strong> Singers sing along with live guitar players – and for guitar and bass players, we can mute the lead, rhythm, and bass guitar parts from any of the songs on the list so you can play them live.</p>
 
 ### Frequently Asked Questions
@@ -22,7 +31,10 @@ layout: home
     <dt>Can I see the words?</dt>
     <dd>Yes. Guitaraoke uses professional backing videos, and you’ll have the words on screen.</dd>
     <dt>Can I see the guitar chords/tabs?</dt>
-    <dd>No, sorry. You’ll need to learn the songs.</dd>
+    <dd>Yes - most songs have chords on screen as well as lyrics:</dd>
+    <section class="youtube-wrapper">
+    <iframe width="640" height="315" src="https://www.youtube.com/embed/r_e4PJLCEdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
     <dt>Do I have to sign up in advance?</dt>
     <dd>No. But if there’s a song you particularly want to play or sing, <a href="#get-in-touch">get in touch</a> and I’ll try to make it happen.</dd>
     <dt>Do I need to bring anything?</dt>
@@ -56,27 +68,8 @@ All the songs are also on a [Spotify playlist](https://open.spotify.com/playlist
 
 ## Gear List
 
-Here’s what I’m bringing along. Feel free to bring your own guitar/bass, and pedals (but please leave your amp at home!)
-
-- Fender Stratocaster electric guitar
-- Ibanez RG570 electric guitar
-- Steinberger Spirit GT3 electric guitar
-- Peavey Millennium 5-string bass
-- Walden D600 acoustic guitar
-- Blackstar HT-5 valve amp
-- Line6 Pod XT multi-FX
-- Zoom G1On multi-FX
-- 2 x Shure SM57 vocal mics
-- 2 x Shure SM58 instrument mics
-
-All running through a Behringer 16-channel desk into a full PA system with monitor wedges.
-
-## How It Works
-
-All the backing videos are mixed in 5.1 surround sound, using instrumental tracks and videos provided by [karaoke-version.co.uk](https://www.karaoke-version.co.uk/). The ‘backing’ mix (drums, keyboards, strings, piano) is assigned to the back left and right channels, and each guitar is on a separate channel in the 5.1 mix – lead on the left, bass in the middle, rhythm on the right. The sound runs from the laptop into an Asus XONAR 5.1 audio interface, which gives isolated outputs for each track. Each track runs into a separate channel on the desk, so we can turn individual instruments on/off depending who’s playing what on the night.
+The gear varies from night to night, but we'll always have a couple of electric guitars, an electric bass or two, and enough FX and backline to make it all work.
 
 ## Get In Touch
 
-I’m Dylan (hi!), and guitaraoke is a bit of an experiment. It’s a format I’ve been tinkering with for _years_, and my birthday party seemed like a great opportunity to make it happen.
-
-If you want to request a song, or you’re planning to come along and sing/play and have any questions, give me a shout – I’m [dylan@dylanbeattie.net](mailto:dylan@dylanbeattie.net) on email and [@dylanbeattie](https://twitter.com/dylanbeattie) on Twitter, and my website is at [dylanbeattie.net](https://dylanbeattie.net/).
+Want to request a song? Planning to come along and sing/play, and have any questions? Give me a shout – I’m [dylan@dylanbeattie.net](mailto:dylan@dylanbeattie.net) on email and [@dylanbeattie](https://twitter.com/dylanbeattie) on Twitter.

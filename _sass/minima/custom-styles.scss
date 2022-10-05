@@ -1,80 +1,92 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
-html { 
-    background: #000 url(/assets/img/website-header-background.jpg);
-    background-size: contain;    
-    background-position: top center;
-    background-repeat: no-repeat;
+html {
+  background: #000 url(/assets/img/website-header-background.jpg);
+  background-size: contain;
+  background-position: top center;
+  background-repeat: no-repeat;
 }
 
 body {
-    background: url(/assets/img/website-footer.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: bottom center;
-    background-size: contain;   
-    // div.home {
-    //     padding: 16px;
-    //     background:#00000099 !important;
-    // } 
+  background: url(/assets/img/website-footer.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom center;
+  background-size: contain;
+  // div.home {
+  //     padding: 16px;
+  //     background:#00000099 !important;
+  // }
+}
+
+section.youtube-wrapper {
+  text-align: center;
+
+  iframe {
+    width: 640px;
+    height: 360px;
+    margin: 32px auto;
+  }
 }
 
 footer {
-    margin-top: 22vw;
-    margin-bottom: 1vw;
-    text-align: center;
-    font-size: 80%;
-    &.site-footer {
-        padding: 2px 0 !important;
-    }
+  margin-top: 22vw;
+  margin-bottom: 1vw;
+  text-align: center;
+  font-size: 80%;
+  &.site-footer {
+    padding: 2px 0 !important;
+  }
 }
 
 @media (max-width: 960px) {
-    body {
-        background-size: 960px auto;
-    }
-    footer {
-        margin-top: 220px;
-    }
+  body {
+    background-size: 960px auto;
+  }
+  footer {
+    margin-top: 220px;
+  }
 }
 
-a.site-title {    
-    display: block;
-    margin: 8px auto !important;
-    font-size: 0;
-    background: url(/assets/img/website-logo-header.svg);
-    background-position: top center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    float: none;
-    height: 10vw;
-    min-height: 60px;
-    max-height: 120px;
+a.site-title {
+  display: block;
+  margin: 8px auto !important;
+  font-size: 0;
+  background: url(/assets/img/website-logo-header.svg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  float: none;
+  height: 10vw;
+  min-height: 60px;
+  max-height: 120px;
 }
 
 dl dt {
-    font-weight: bold;
+  font-weight: bold;
+  margin-bottom: 8px;
 }
 dl dd {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
+  margin-left: 8px;
 }
 
 nav {
-    text-align: center;
-    a {
-        display: inline-block;
-        padding: 4px;
-        color: #fff !important;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-    border-bottom: 1px solid #fff;
-    border-top: 1px solid #fff;
-    padding: 16px 0px;
-    margin-bottom: 16px;
+  text-align: center;
+  a {
+    display: inline-block;
+    padding: 4px;
+    color: #fff !important;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  border-bottom: 1px solid #fff;
+  border-top: 1px solid #fff;
+  padding: 8px 0px;
+  margin-bottom: 16px;
 }
 
 pre {
-    font-size: 10px;
+  font-size: 10px;
 }

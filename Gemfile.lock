@@ -70,6 +70,7 @@ GEM
     wdm (0.1.1)
 
 PLATFORMS
+  universal-darwin-21
   x86_64-linux
 
 DEPENDENCIES
@@ -82,4 +83,4 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   2.3.19
+   2.3.13

@@ -10,6 +10,7 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.15.5)
+    ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (0.9.5)
@@ -68,9 +69,11 @@ GEM
     tzinfo-data (1.2022.1)
       tzinfo (>= 1.0.0)
     wdm (0.1.1)
+    webrick (1.7.0)
 
 PLATFORMS
   universal-darwin-21
+  x64-mingw-ucrt
   x86_64-linux
 
 DEPENDENCIES
@@ -81,6 +84,7 @@ DEPENDENCIES
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.13

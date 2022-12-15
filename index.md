@@ -22,6 +22,7 @@ layout: home
     <p>44a Sydenham Road, London, SE26 5QF</p>
 </section>
 <hr />
+<img src="/assets/img/guitaraoke-december-social-media-image1200.png" alt="Christmas Special!" />
 
 <p><strong>Guitaraoke is karaoke with real guitars.</strong> Singers sing along with live guitar players – and for guitar and bass players, we can mute the lead, rhythm, and bass guitar parts from any of the songs on the list so you can play them live.</p>
 
@@ -59,6 +60,18 @@ layout: home
 ## Song List
 
 If you want to play something that’s not on the list, [get in touch](#get-in-touch) and I’ll see what I can do.
+
+### Christmas Hits!
+
+1. Band Aid - Do They Know It's Christmas
+1. Chuck Berry - Run Rudolph Run
+1. Mariah Carey - All I Want For Christmas Is You
+1. Shakin Stevens - Merry Christmas Everyone
+1. Slade - Merry Xmas Everybody
+1. The Pogues - Fairytale of New York
+1. Wizzard - I Wish It Could Be Christmas Every Day
+
+Plus all the regular Guitaraoke favourites:
 
 {% include song-list.md %}
 

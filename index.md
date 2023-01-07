@@ -4,38 +4,44 @@
 
 layout: home
 ---
-
-<nav>
-<a href="#song-list">Songs</a>
-|
-<a href="#gear-list">Gear</a>
-|
-<a href="#get-in-touch">Contact</a>
-</nav>
-
+<hr />
 <section style="text-align: left;">
 <a href="https://ignition.beer/">
 <img src="ignition-logo-white-on-trans.webp" style="float: right; width: 120px; height: 120px;" />
 </a>
-    <h2>Every 3rd Saturday of the month at 7PM</h2>
-    <h3><a href="https://ignition.beer/">Ignition Brewery Taproom</a></h3>
-    <p>44a Sydenham Road, London, SE26 5QF</p>
+    <h2 style="margin-bottom: 2px;">Saturday, January 21st, 2023 @ 7PM</h2>
+    <p>and every 3rd Saturday of the month</p>
+    <p><a class="google-calendar-link" href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Guitaraoke&dates=20230121T190000Z/20230121T220000Z&details=https://guitaraoke.live&location=Ignition Brewery,+44A Sydenham Rd,+London+SE26+5QX,+UK&recur=FREQ=MONTHLY;UNTIL=20230601T000000Z;BYDAY=3SA">
+        <img src="/assets/img/google_calendar_7_2x.png" style="width: 24px; height: 24px;" /> Add to Google Calendar</a>
+    </p>
+    <p><a style="font-weight: bold;" href="https://ignition.beer/">Ignition Brewery Taproom</a>, 44a Sydenham Road, London, SE26 5QF</p>
 </section>
 <hr />
-<img src="/assets/img/guitaraoke-december-social-media-image1200.png" alt="Christmas Special!" />
+<div style="font-weight: bold; font-style: italic; text-align: center; font-size: 125%; margin: 16px;">
+“...it's like a cross between an open mic night and Guitar Hero!”
+</div>
+<p><strong>Guitaraoke is karaoke with guitars.</strong> Singers sing along with live guitar players – and for guitar and bass players, we can mute the lead, rhythm, and bass guitar parts from any of the songs on the list so you can play them live.</p>
+<section class="youtube-wrapper">
+    <iframe width="640" height="315" src="https://www.youtube.com/embed/r_e4PJLCEdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
 
-<p><strong>Guitaraoke is karaoke with real guitars.</strong> Singers sing along with live guitar players – and for guitar and bass players, we can mute the lead, rhythm, and bass guitar parts from any of the songs on the list so you can play them live.</p>
+## Song List
+
+If you want to play something that’s not on the list, [get in touch](#get-in-touch) and I’ll see what I can do.
+
+<div style="background: rgba(0,0,0,0.8); padding: 8px; border-radius: 8px;">
+<ul>
+{% include song-list.md %}
+</ul>
+</div>
 
 ### Frequently Asked Questions
 
 <dl>
     <dt>Can I see the words?</dt>
     <dd>Yes. Guitaraoke uses professional backing videos, and you’ll have the words on screen.</dd>
-    <dt>Can I see the guitar chords/tabs?</dt>
-    <dd>Yes - most songs have chords on screen as well as lyrics:</dd>
-    <section class="youtube-wrapper">
-    <iframe width="640" height="315" src="https://www.youtube.com/embed/r_e4PJLCEdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </section>
+    <dt>Can I see the guitar chords?</dt>
+    <dd>Yes - I've added animated guitar chords to the videos, so you can see what to play.</dd>
     <dt>Do I have to sign up in advance?</dt>
     <dd>No. But if there’s a song you particularly want to play or sing, <a href="#get-in-touch">get in touch</a> and I’ll try to make it happen.</dd>
     <dt>Do I need to bring anything?</dt>
@@ -50,36 +56,11 @@ layout: home
     <dd>Please don’t – we’ll run everything through the venue PA.</dd>
     <dt>Can I bring my harmonica, saxophone, trombone, etc?</dt>
     <dd>Sure; if you’re happy to jam along with whatever else is playing, go for it. We’ll have a few extra microphones if you need one.</dd>
-    <dt>What key is everything in?</dt>
-    <dd>Tracks are the same as the original recording.</dd>
-    <dd><em>NOTE: Some bands (e.g. Guns n’ Roses) tune everything down half a step in the studio. <strong>We don’t</strong>. All the instruments are tuned to concert pitch, so for songs like Beat It and Sweet Child O’ Mine, we play the same chords/shapes as the original but our version comes out in E rather than E♭.</em></dd>
+    <dt>Do you tune down a half-step?</dt>
+    <dd>No. Some bands tune everything down half a step in the studio. <strong>We don’t</strong>. All the instruments are tuned to concert pitch, so for songs like Beat It and Sweet Child O’ Mine, we play the same chords/shapes as the original but our version comes out in E rather than E♭.</dd>
     <dt>What if I drink four beers, get on stage believing I’m a rock god, and then realise I actually suck...?</dt>
     <dd>Relax. It’s just for fun. But if you’re really not enjoying yourself, give us the nod and we’ll quietly fade you out and bring the original track back in and you can just jump around and pretend. (After all, that’s what they do on Top Of The Pops.)</dd>
 </dl>
-
-## Song List
-
-If you want to play something that’s not on the list, [get in touch](#get-in-touch) and I’ll see what I can do.
-
-### Christmas Hits!
-
-1. Band Aid - Do They Know It's Christmas
-1. Chuck Berry - Run Rudolph Run
-1. Mariah Carey - All I Want For Christmas Is You
-1. Shakin Stevens - Merry Christmas Everyone
-1. Slade - Merry Xmas Everybody
-1. The Pogues - Fairytale of New York
-1. Wizzard - I Wish It Could Be Christmas Every Day
-
-Plus all the regular Guitaraoke favourites:
-
-{% include song-list.md %}
-
-All the songs are also on a [Spotify playlist](https://open.spotify.com/playlist/0qIr80VVG38TWuQzs1Api6?si=b6b8a77fdfcf4ebe) so you can sing and jam along and get in the mood.
-
-## Gear List
-
-The gear varies from night to night, but we'll always have a couple of electric guitars, an electric bass or two, and enough FX and backline to make it all work.
 
 ## Get In Touch
 

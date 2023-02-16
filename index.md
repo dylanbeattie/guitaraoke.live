@@ -9,8 +9,8 @@ layout: home
 <a href="https://ignition.beer/">
 <img src="ignition-logo-white-on-trans.webp" style="float: right; width: 120px; height: 120px;" />
 </a>
-    <h2 style="margin-bottom: 2px;">Saturday, January 21st, 2023 @ 7PM</h2>
-    <p>and every 3rd Saturday of the month</p>
+    <h2 style="margin-bottom: 2px;">Saturday, February 18th, 2023 @ 7PM</h2>
+    <p>then March 11th, April 15th, May 20th</p>
     <p><a class="google-calendar-link" href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Guitaraoke&dates=20230121T190000Z/20230121T220000Z&details=https://guitaraoke.live&location=Ignition Brewery,+44A Sydenham Rd,+London+SE26+5QX,+UK&recur=FREQ=MONTHLY;UNTIL=20230601T000000Z;BYDAY=3SA">
         <img src="/assets/img/google_calendar_7_2x.png" style="width: 24px; height: 24px;" /> Add to Google Calendar</a>
     </p>

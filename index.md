@@ -9,7 +9,7 @@ layout: home
 <a href="https://ignition.beer/">
 <img src="ignition-logo-white-on-trans.webp" style="float: right; width: 120px; height: 120px;" />
 </a>
-    <h2 style="margin-bottom: 2px;">Saturday, March 11th, 2023 @ 7PM</h2>
+    <h2 style="margin-bottom: 2px;">Saturday, April 15th, 2023 @ 7PM</h2>
     <p>then April 15th, May 20th, and every 3rd Saturday!</p>
     
     <!--

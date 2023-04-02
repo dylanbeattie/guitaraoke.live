@@ -9,14 +9,11 @@ layout: home
 <a href="https://ignition.beer/">
 <img src="ignition-logo-white-on-trans.webp" style="float: right; width: 120px; height: 120px;" />
 </a>
-    <h2 style="margin-bottom: 2px;">Saturday, April 15th, 2023 @ 7PM</h2>
-    <p>then April 15th, May 20th, and every 3rd Saturday!</p>
-    
-    <!--
-    <p><a class="google-calendar-link" href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Guitaraoke&dates=20230121T190000Z/20230121T220000Z&details=https://guitaraoke.live&location=Ignition Brewery,+44A Sydenham Rd,+London+SE26+5QX,+UK&recur=FREQ=MONTHLY;UNTIL=20230601T000000Z;BYDAY=3SA">
+    <h2 style="margin-bottom: 2px;">Saturday, April 15th @ 7PM</h2>
+    <p>then May 20th, June 17th, and every 3rd Saturday.</p>
+    <p><a class="google-calendar-link" href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Guitaraoke&dates=20230415T190000Z/20230415T220000Z&details=https://guitaraoke.live&location=Ignition Brewery,+44A Sydenham Rd,+London+SE26+5QX,+UK&recur=FREQ=MONTHLY;UNTIL=20230901T000000Z;BYDAY=3SA">
         <img src="/assets/img/google_calendar_7_2x.png" style="width: 24px; height: 24px;" /> Add to Google Calendar</a>
     </p>
-    -->
     <p><a style="font-weight: bold;" href="https://ignition.beer/">Ignition Brewery Taproom</a>, 44a Sydenham Road, London, SE26 5QF</p>
 </section>
 <hr />
@@ -48,7 +45,9 @@ If you want to play something that’s not on the list, [get in touch](#get-in-t
     <dt>Do I have to sign up in advance?</dt>
     <dd>No. But if there’s a song you particularly want to play or sing, <a href="#get-in-touch">get in touch</a> and I’ll try to make it happen.</dd>
     <dt>Do I need to bring anything?</dt>
-    <dd>Just your favourite plectrum. I’ll provide instruments, backline, mics... all the things. See the <a href="#gear-list">gear list</a> if you need to know what’ll be there.</dd>
+    <dd>Just your favourite plectrum. I’ll provide instruments, backline, mics... all the things.</dd>
+    <dt>Is there a keyboard?</dt>
+    <dd>There's an upright piano in the taproom that you're welcome to play - and it's actually in tune!</dd>
     <dt>I can just turn up and play? I don’t need to lug my guitar along?</dt>
     <dd>Yes.</dd>
     <dt>Can I bring my guitar anyway?</dt>

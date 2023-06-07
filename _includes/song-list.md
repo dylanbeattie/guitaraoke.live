@@ -1,8 +1,11 @@
 <li>4 Non Blondes - Whats Up</li>
+<li>A Star Is Born - Shallow</li>
 <li>A-Ha - Take On Me</li>
+<li>Abba - Waterloo</li>
 <li>ACDC - Highway to Hell</li>
 <li>ACDC - You Shook Me All Night Long</li>
 <li>Adele - Rolling in the Deep</li>
+<li>Aerosmith - Dream On</li>
 <li>Alannah Myles - Black Velvet</li>
 <li>Amy Winehouse - Valerie</li>
 <li>Backstreet Boys - Backstreets Back</li>
@@ -19,18 +22,23 @@
 <li>Bon Jovi - You Give Love a Bad Name</li>
 <li>Bryan Adams - Summer of 69</li>
 <li>Cher - If I Could Turn Back Time</li>
+<li>Chesney Hawkes - The One and Only</li>
 <li>Cream - Crossroads</li>
 <li>Daft Punk - Get Lucky</li>
 <li>Dire Straits - Money For Nothing</li>
 <li>Dire Straits - Sultans of Swing</li>
+<li>Dua Lipa - Levitating</li>
 <li>Europe - The Final Countdown</li>
+<li>Faith No More - Everything's Ruined</li>
 <li>Fleetwood Mac - Dreams</li>
 <li>Foo Fighters - Learn to Fly</li>
 <li>Fountains of Wayne - Stacy's Mom</li>
 <li>George Ezra - Shotgun</li>
 <li>Georgia Satellites - Battleship Chains</li>
 <li>Giorgio Moroder and Philip Oakey - Together in Electric Dreams</li>
+<li>chords.mp4</li>
 <li>Gloria Gaynor - I Will Survive</li>
+<li>Gnarls Barkley - Crazy</li>
 <li>Green Day - Basket Case</li>
 <li>Gun - Word Up</li>
 <li>Guns n Roses - Sweet Child O Mine</li>
@@ -39,24 +47,38 @@
 <li>James - Sit Down</li>
 <li>Janet Kay - Silly Games</li>
 <li>Jeff Beck - Hi Ho Silver Lining</li>
+<li>Jerry Reed - East Bound and Down</li>
 <li>Joan Jett - I Love Rock'n'Roll</li>
+<li>Journey - Don't Stop Believing</li>
 <li>Katrina And The Waves - Walking On Sunshine</li>
+<li>Lynyrd Skynyrd - Sweet Home Alabama</li>
+<li>Manic Street Preachers - A Design For Life</li>
 <li>Michael Jackson - Beat It</li>
 <li>Midnight Oil - Beds Are Burning</li>
 <li>Muse - Hysteria</li>
 <li>Muse - Time Is Running Out</li>
+<li>Natalie Imbruglia - Torn</li>
+<li>Nirvana - Come As You Are</li>
 <li>Oasis - Live Forever</li>
 <li>Pearl Jam - Alive</li>
+<li>Phil Collins - Easy Lover</li>
 <li>Pink Floyd - Another Brick In The Wall (Pt 2)</li>
+<li>Pink Floyd - Comfortably Numb</li>
 <li>Pulp - Common People</li>
 <li>Pulp - Disco 2000</li>
 <li>Queen - I Want It All</li>
 <li>Queen - Tie Your Mother Down</li>
 <li>Radiohead - Creep</li>
+<li>REM - Imitation Of Life</li>
+<li>REM - Losing My Religion</li>
 <li>Robert Palmer - Addicted to Love</li>
+<li>Roxette - It Must Have Been Love</li>
 <li>Shania Twain - Man I Feel Like A Woman</li>
 <li>Simple Minds - Don't You Forget About Me</li>
+<li>Smash Mouth - All Star</li>
 <li>Starship - Nothing's Gonna Stop Us Now</li>
+<li>Taylor Swift - Love Story</li>
+<li>Tears for Fears - Everybody Wants to Rule the World</li>
 <li>The Commitments - Mustang Sally</li>
 <li>The Cranberries - Zombie</li>
 <li>The Killers - Mr Brightside</li>
@@ -68,3 +90,5 @@
 <li>Van Halen - Jump</li>
 <li>Wet Leg - Chaise Longue</li>
 <li>Wheatus - Teenage Dirtbag</li>
+<li>White Stripes - Seven Nation Army</li>
+<li>ZZ Top - Gimme All Your Lovin</li>

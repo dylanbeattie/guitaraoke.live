@@ -9,9 +9,9 @@ layout: home
 <a href="https://ignition.beer/">
 <img src="ignition-logo-white-on-trans.webp" style="float: right; width: 120px; height: 120px;" />
 </a>
-    <h2 style="margin-bottom: 2px;">Saturday, April 15th @ 7PM</h2>
-    <p>then May 20th, June 17th, and every 3rd Saturday.</p>
-    <p><a class="google-calendar-link" href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Guitaraoke&dates=20230415T190000+01:00/20230415T220000+01:00&details=https://guitaraoke.live&location=Ignition Brewery,+44A Sydenham Rd,+London+SE26+5QX,+UK&recur=FREQ=MONTHLY;UNTIL=20230901T000000Z;BYDAY=3SA">
+    <h2 style="margin-bottom: 2px;">Saturday, June 17th 2023 @ 7PM</h2>
+    <p>then July 15th, August 19th, and every 3rd Saturday.</p>
+    <p><a class="google-calendar-link" href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Guitaraoke&dates=20230617T190000+01:00/20230617T220000+01:00&details=https://guitaraoke.live&location=Ignition Brewery,+44A Sydenham Rd,+London+SE26+5QX,+UK&recur=FREQ=MONTHLY;UNTIL=20230901T000000Z;BYDAY=3SA">
         <img src="/assets/img/google_calendar_7_2x.png" style="width: 24px; height: 24px;" /> Add to Google Calendar</a>
     </p>
     <p><a style="font-weight: bold;" href="https://ignition.beer/">Ignition Brewery Taproom</a>, 44a Sydenham Road, London, SE26 5QF</p>

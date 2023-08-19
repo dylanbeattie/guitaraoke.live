@@ -5,17 +5,6 @@
 layout: home
 ---
 <hr />
-<section style="text-align: left;">
-<a href="https://ignition.beer/">
-<img src="ignition-logo-white-on-trans.webp" style="float: right; width: 120px; height: 120px;" />
-</a>
-    <h2 style="margin-bottom: 2px;">Saturday, July 15th 2023 @ 7PM</h2>
-    <p><a class="google-calendar-link" href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Guitaraoke&dates=20230715T190000+01:00/20230715T220000+01:00&details=https://guitaraoke.live&location=Ignition Brewery,+44A Sydenham Rd,+London+SE26+5QX,+UK">
-        <img src="/assets/img/google_calendar_7_2x.png" style="width: 24px; height: 24px;" /> Add to Google Calendar</a>
-    </p>
-    <p><a style="font-weight: bold;" href="https://ignition.beer/">Ignition Brewery Taproom</a>, 44a Sydenham Road, London, SE26 5QF</p>
-</section>
-<hr />
 <div style="font-weight: bold; font-style: italic; text-align: center; font-size: 125%; margin: 16px;">
 “...it's like a cross between an open mic night and Guitar Hero!”
 </div>

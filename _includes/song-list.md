@@ -10,17 +10,18 @@
 <li>Amy Winehouse - Valerie</li>
 <li>Backstreet Boys - Backstreet’s Back</li>
 <li>Backstreet Boys - Larger than Life</li>
-<li>Barenaked Ladies - If I Had $1,000,000</li>
+<li>Baddiel &amp; Skinner - Three Lions</li>
+<li>Barenaked Ladies - If I Had $1000000</li>
 <li>Belinda Carlisle - Heaven is a Place on Earth</li>
 <li>Billy Idol - Rebel Yell</li>
 <li>Billy Joel - We Didn’t Start The Fire</li>
 <li>Black Crowes - Hard to Handle</li>
 <li>Bon Jovi - Bed of Roses</li>
-<li>Bon Jovi - Livin’ on a Prayer</li>
+<li>Bon Jovi - Livin on a Prayer</li>
 <li>Bon Jovi - Runaway</li>
 <li>Bon Jovi - Wanted Dead or Alive</li>
 <li>Bon Jovi - You Give Love a Bad Name</li>
-<li>Bryan Adams - Summer of ’69</li>
+<li>Bryan Adams - Summer of 69</li>
 <li>Cher - If I Could Turn Back Time</li>
 <li>Chesney Hawkes - The One and Only</li>
 <li>Counting Crows - A Long December</li>
@@ -41,14 +42,14 @@
 <li>Gnarls Barkley - Crazy</li>
 <li>Green Day - Basket Case</li>
 <li>Gun - Word Up</li>
-<li>Guns n Roses - Sweet Child o’ Mine</li>
+<li>Guns n Roses - Sweet Child O Mine</li>
 <li>HIM - Wicked Game</li>
 <li>Huey Lewis and the News - The Power of Love</li>
 <li>James - Sit Down</li>
 <li>Janet Kay - Silly Games</li>
 <li>Jeff Beck - Hi Ho Silver Lining</li>
 <li>Jerry Reed - East Bound and Down</li>
-<li>Joan Jett - I Love Rock‘n’Roll</li>
+<li>Joan Jett - I Love Rock’n’Roll</li>
 <li>Journey - Don’t Stop Believing</li>
 <li>Katrina And The Waves - Walking On Sunshine</li>
 <li>Lynyrd Skynyrd - Sweet Home Alabama</li>
@@ -58,12 +59,14 @@
 <li>Muse - Hysteria</li>
 <li>Muse - Time Is Running Out</li>
 <li>Natalie Imbruglia - Torn</li>
+<li>Neil Diamond - Sweet Caroline</li>
 <li>Nirvana - Come As You Are</li>
 <li>Oasis - Live Forever</li>
 <li>Pearl Jam - Alive</li>
 <li>Phil Collins - Easy Lover</li>
 <li>Pink Floyd - Another Brick In The Wall (Pt 2)</li>
 <li>Pink Floyd - Comfortably Numb</li>
+<li>Pink Floyd - Time</li>
 <li>Pulp - Common People</li>
 <li>Pulp - Disco 2000</li>
 <li>Queen - I Want It All</li>

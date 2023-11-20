@@ -15,6 +15,18 @@ layout: home
 
 ## Song List
 
+### Christmas Hits!
+
+1. Band Aid - Do They Know It's Christmas
+1. Chuck Berry - Run Rudolph Run
+1. Mariah Carey - All I Want For Christmas Is You
+1. Shakin Stevens - Merry Christmas Everyone
+1. Slade - Merry Xmas Everybody
+1. The Pogues - Fairytale of New York
+1. Wizzard - I Wish It Could Be Christmas Every Day
+
+Plus all the regular Guitaraoke favourites:
+
 If you want to play something that’s not on the list, [get in touch](#get-in-touch) and I’ll see what I can do.
 
 <div style="background: rgba(0,0,0,0.8); padding: 8px; border-radius: 8px;">

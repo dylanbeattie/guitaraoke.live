@@ -18,6 +18,7 @@ layout: home
 ### Christmas Hits!
 
 1. Band Aid - Do They Know It's Christmas
+1. Chris Rea - Driving Home for Christmas
 1. Chuck Berry - Run Rudolph Run
 1. Mariah Carey - All I Want For Christmas Is You
 1. Shakin Stevens - Merry Christmas Everyone
